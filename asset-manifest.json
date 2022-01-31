@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-responsive-multilevel-navbar/static/css/main.ebaae0d3.css",
+    "main.js": "/react-responsive-multilevel-navbar/static/js/main.8965adc9.js",
+    "static/js/787.c1772abb.chunk.js": "/react-responsive-multilevel-navbar/static/js/787.c1772abb.chunk.js",
+    "index.html": "/react-responsive-multilevel-navbar/index.html",
+    "main.ebaae0d3.css.map": "/react-responsive-multilevel-navbar/static/css/main.ebaae0d3.css.map",
+    "main.8965adc9.js.map": "/react-responsive-multilevel-navbar/static/js/main.8965adc9.js.map",
+    "787.c1772abb.chunk.js.map": "/react-responsive-multilevel-navbar/static/js/787.c1772abb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebaae0d3.css",
+    "static/js/main.8965adc9.js"
+  ]
+}
